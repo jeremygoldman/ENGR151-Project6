@@ -1,0 +1,19 @@
+B: 14
+B: 17
+B: 16
+F: 101
+I: 115
+Index Arbitrage: profit = 2
+F: 100
+F: 99
+B: 20
+F: 111
+I: 135
+Index Arbitrage: profit = 4
+F: 102
+IA final holdings: cash = 6
+MM final holdings: cash = 0
+Security B: 0 units, value = 0
+Security F: 0 units, value = 0
+Security I: 0 units, value = 0
+Total profit is 0.

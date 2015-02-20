@@ -1,0 +1,25 @@
+B: 14
+B: 17
+B: 16
+F: 101
+I: 115
+Index Arbitrage: profit = 2
+F: 100
+F: 99
+B: 19 (MM sell)
+F: 111
+I: 135
+Index Arbitrage: profit = 5
+F: 103 (MM buy)
+F: 114 (MM sell)
+F: 111
+B: 17
+F: 105
+I: 129
+Index Arbitrage: profit = 7
+IA final holdings: cash = 14
+MM final holdings: cash = 30
+Security B: -1 units, value = -17
+Security F: 0 units, value = 0
+Security I: 0 units, value = 0
+Total profit is 13.
